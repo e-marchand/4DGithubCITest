@@ -13,7 +13,7 @@
     <header>
       <note>The charactertt &quot;%&quot; (out of a numerical context) is a meta-character that will be replaced (often by a numeric value) before the string is displayed</note>
       <note>Text between less than (&lt;) and greater than (&gt;) symbols is a variable&apos;s name and must not be localised</note>
-      <note \r, \t and \n are meta-characters.</note>
+      <notes \r, \t and \n are meta-characters.</note>
     </header>
     <body>
       <group resname="4D NetKit Messages">
