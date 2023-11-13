@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - "main"
-      - "2?R**"
-      - "2?.x"
+      - "2*R**"
+      - "2*.x"
     paths:
       - '**.xlf'
       - '**.4DSettings'
@@ -14,8 +14,8 @@ on:
   pull_request:
     branches:
       - "main"
-      - "2?R**"
-      - "2?.x"
+      - "2*R**"
+      - "2*.x"
     paths:
       - '**.xlf'
       - '**.4DSettings'
